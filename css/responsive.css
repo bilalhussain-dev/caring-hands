@@ -1,0 +1,479 @@
+
+
+@media (min-width:768px) and (max-width:1023px)
+{
+    .site-nav .navbar-brand
+    {
+        width: 22px;
+    }
+    .site-nav
+    {
+        padding: 0 15px;
+    }
+    .navbar-expand-md .navbar-nav
+    {
+        padding: 0;
+    }
+    .navbar-expand-md .navbar-nav .nav-link
+    {
+        font-size: 12px;
+    }
+    .banner-section
+    {
+        margin-top: 120px;
+    }
+    .xmas-banner
+    {
+        position: relative;
+    }
+    .xmas-banner aside
+    {
+        position: absolute;
+        top:50%;
+        transform: translateY(-50%);
+    }
+    .chocolate-wrap aside h3
+    {
+        font-size: 22px;
+    }
+    .chocolate-wrap aside h4
+    {
+        font-size: 18px;
+    }
+    .chocolate-wrap aside h2
+    {
+        font-size: 32px;
+    }
+    .chocolate-wrap aside a
+    {
+        margin-top: 1rem;
+    }
+    .elegant-wrap aside
+    {
+        top:1rem;
+        right: 1rem;
+    }
+    .elegant-wrap aside h2
+    {
+        font-size: 32px;
+    }
+    .elegant-wrap h3
+    {
+        font-size: 22px;
+    }
+    .blog-content h5
+    {
+        font-size: 14px;
+    }
+    .blog-date
+    {
+        margin-right: 10px;
+    }
+    .other-banners
+    {
+        margin-top: 120px;
+    }
+    .whr-img-title
+    {
+        font-size: 18px;
+    }
+    .hh-media
+    {
+        display: block;
+        text-align: center;
+    }
+    .hh-media img
+    {
+        margin-bottom: 20px;
+    }
+
+}
+
+
+@media (max-width:767px)
+{
+    .bannerFirst, .xmas-banner, .p-girl,
+    .devo-banner, .chocolate-wrap, .elegant-wrap, .comm-wrap
+    {
+        margin-top:10px;
+    }
+    .second-section:after
+    {
+        display:none;
+    }
+    .second-section, .team-section, .subfooter,
+    .urgent-help-section
+    {
+        padding:3rem 0;
+    }
+    .gallery-section
+    {
+        padding-bottom:0
+    }
+    .team-content
+    {
+        padding:0;
+    }
+    .devo-banner aside
+    {
+        position:relative
+    }
+    .other-banners
+    {
+        margin-top: 0px;
+    }
+    .whr-img-title
+    {
+        font-size: 18px;
+    }
+    .top-strip
+    {
+        padding: 5px 0px;
+        height: auto;
+        text-align: left;
+    }
+    .top-contact-info ul
+    {
+        width:100%;
+    }
+    .top-strip ul
+    {
+        padding: 3px 0;
+        text-align:center
+    }
+    .top-strip ul li 
+    {
+        font-size: 15px;
+        display: block;
+    }
+    .top-contact-info ul li:first-child:after
+    {
+        display: none;
+    }
+    .top-contact-info ul li:last-child
+    {
+        margin: 3px 0;
+    }
+    .site-nav
+    {
+        padding: 10px 10px;
+        background: #fff;
+    }
+    .site-nav .navbar-toggler
+    {
+        font-size: 36px;
+        padding: 0;
+        outline:none;
+        color:#0a8918
+    }
+    .fb-buttons a
+    {
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+    .fb-buttons
+    {
+        margin-top: 1rem;
+    }
+    .bannerFirst aside
+    {
+        top: 1rem;
+        left: 1rem;
+    }
+    .bannerFirst .fb-heading h2
+    {
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .bannerFirst .fb-heading h2 br
+    {
+        display: none;
+    }
+    .bannerFirst aside h5
+    {
+        font-size: 14px;
+    }
+    .bannerFirst aside h3
+    {
+        font-size: 18px;
+    }
+    .xmas-banner aside a
+    {
+        margin-top: 1.3rem;
+    }
+    .xmas-banner aside h2
+    {
+        font-size: 22px;
+    }
+    .xmas-banner aside
+    {
+        top: 2rem;
+        left: 1.5rem;
+    }
+    .xmas-banner aside a
+    {
+        font-size: 18px;
+    }
+    .xmas-banner
+    {
+        margin-bottom: 0;
+    }
+    .p-girl h2
+    {
+        padding-bottom: 0;
+    }
+    .p-girl h2 span
+    {
+        font-size: 36px;
+    }
+    .devo-banner h3
+    {
+        position: unset;
+        padding: 2rem 0;
+        transform: unset;
+        width: 100%;
+    }
+    .chocolate-wrap aside h4
+    {
+        font-size: 18px;
+    }
+    .chocolate-wrap aside h2
+    {
+        font-size: 28px;
+    }
+    .chocolate-wrap aside h3
+    {
+        font-size: 22px;
+    }
+    .chocolate-wrap aside a
+    {
+        margin-top: 12px;
+    }
+    .e-news-wrap h2, .elegant-wrap h3, .about-content h2, .section-title,
+    .sponsor-content h2, .second-section h2, .v-title, .help-content h2,
+    .team-content h2, .voluteer-wrap h2
+    {
+        font-size: 24px;
+    }
+    .elegant-wrap h2
+    {
+        font-size: 32px;
+    }
+    .elegant-wrap aside
+    {
+        right: 1rem;
+        top: 1rem;
+    }
+    .umeed-boxes h4,
+    .v-info h4
+    {
+        font-size: 18px;
+    }
+    .umeed-boxes h5
+    {
+        margin-bottom: 15px;
+    }
+    .sponsor-content
+    {
+        padding: 2rem 2rem 5rem 2rem;
+    }
+    .sponsor-content ul
+    {
+        margin-top: 20px;
+    }
+    .sponsor-content ul li:nth-child(2)
+    {
+        margin-top: 1rem;
+        display: block;
+    }
+    .gallery-wrap figure
+    {
+        max-width: 50%;
+        flex: 0 0 50%;
+    }
+    .bv-section h4
+    {
+        font-size: 18px;
+    }
+    .bv-section h2
+    {
+        font-size: 28px;
+    }
+    .v-staff-section
+    {
+        padding: 0;
+    }
+    .p-title, .f-img-wrap
+    {
+        margin-top:2rem
+    }
+    .partner-media h5
+    {
+        font-size:16px;
+    }
+    .team-content h2
+    {
+        text-align:center
+    }
+    .voluteer-wrap
+    {
+        padding:15rem 1rem 3rem;
+        margin-top: 2rem;
+    }
+    .voluteer-wrap h3
+    {
+        font-size:18px;
+    }
+    .team-section
+    {
+        padding-bottom:0
+    }
+    .copyright
+    {
+        text-align:center;
+        padding:10px 15px
+    }
+    .help-img img
+    {
+        height:auto;
+        width:100%;
+    }
+    .partner-section img
+    {
+        height:auto
+    }
+    .sponsor-slider
+    {
+        position:relative !important
+    }
+    .sponsor-slider .slick-arrow
+    {
+        top:unset;
+        transform: unset;
+        left: 0;
+        right:0;
+        bottom:10px;
+        margin: 0 auto;
+    }
+    .sponsor-slider .slick-prev
+    {
+        right: 30px;
+    }
+    .sponsor-slider .slick-next
+    {
+        left: 30px;
+    }
+    .top-right
+    {
+        justify-content:center
+    }
+    .banner-1
+    {
+        height:400px;
+    }
+    .bannerContent
+    {   
+        margin-bottom:1rem
+    }
+    .bannerContent aside h4
+    {
+        font-size:18px;
+    }
+    .banner-slide .slick-arrow
+    {
+        left:0;
+        right:0;
+        transform:none;
+        margin:0 auto;
+        top:unset;
+        bottom:-3.5rem;
+        line-height: 63px;
+    }
+    .banner-slide .slick-next
+    {
+        left:60px
+    }
+    .banner-slide .slick-prev
+    {
+        right:60px;
+    }
+    .second-section
+    {
+        padding-top:1.7rem;
+    }
+    .second-section h2 span
+    {
+        font-size:24px;
+    }
+    .sponsor-content h2
+    {
+        margin-bottom:20px;
+    }
+    .site-nav .navbar-brand img
+    {
+        height: 45px;
+    }
+    .support-link
+    {
+        padding:10px;
+    }
+    .site-nav .dropdown-menu li a
+    {
+        padding: 12px 25px;
+        color:#000;
+    }
+    .site-nav .navbar-brand h5
+    {
+        font-size: 26px;
+    }
+    .site-nav .navbar-brand p
+    {
+        font-size: 22px;
+        margin-top: 5px;
+    }
+    .upcoming-event
+    {
+        margin-top: 25px;
+    }
+    .about-page-section
+    {
+        padding: 30px 0;
+    }
+    .news-event-wrap
+    {
+        margin-top: 1rem;
+    }
+    .cause-box:hover:after
+    {
+        height: 100%;
+    }
+    .cause-img-caption
+    {
+        z-index: 999;
+    }
+    .g-img-btns
+    {
+        right: 10px;
+        bottom: 5px;
+    }
+    .g-img-content p
+    {
+        padding: 0 10px;
+        top:40%;   
+    }
+    .second-section figure
+    {
+        padding-left: 0;
+    }
+    .gallery-wrap figure
+    {
+        flex:0 0 100%;
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+    .gallery-wrap
+    {
+        margin-top: 20px;
+        padding:0 15px
+    }
+}
